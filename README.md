@@ -83,15 +83,15 @@ Ready to get started? CineSync supports multiple installation methods to fit you
 
 ## ⚡️ Easy Mode (ElfHosted)
 
-❤️ CineSync is proudly [sponsored sponsored](https://github.com/sponsors/sureshfizzy) by ElfHosted (*along with many more excellent [open-source projects](https://docs.elfhosted.com/sponsorship/)*!)
+❤️ CineSync is proudly [sponsored](https://github.com/sponsors/sureshfizzy) by and "elf-illiated" with ElfHosted (*along with many more excellent [open-source projects](https://docs.elfhosted.com/sponsorship/)*!)
 
-What is ElfHosted? [ElfHosted](https://store.elfhosted.com) is "easy mode" for self-hosting - an [open-source](https://docs.elfhosted.com/open/) PaaS which runs runs over 100 popular self-hostable apps for you, reliably and securely. They take responsibility for the painful stuff (*hardware, security, configuration, automation and updates*), so you sit back and enjoy the fun stuff! (*actually **using** your applications!*)
+What is ElfHosted? [ElfHosted](https://store.elfhosted.com/elf/sureshfizzy/) is "easy mode" for self-hosting - an [open-source](https://docs.elfhosted.com/open/) PaaS which runs runs over 100 popular self-hostable apps for you, reliably and securely. They take responsibility for the painful stuff (*hardware, security, configuration, automation and updates*), so you sit back and enjoy the fun stuff! (*actually **using** your applications!*)
 
-Popular [streaming bundles](https://store.elfhosted.com/product-category/streaming-bundles/) are available with Plex, Jellyfin, or Emby, integrated with cloud storage like RealDebrid, Premiumize, etc, and tooled with heavy-hitters such as Radarr/Sonarr, [CineSync](https://store.elfhosted.com/product/cinesync/) (*hello!*), Riven, [Stremio Addons](https://store.elfhosted.com/product-category/stremio-addons/) and [more](https://store.elfhosted.com/product-category/apps/).
+Popular [streaming bundles](https://store.elfhosted.com/product-category/streaming-bundles/elf/sureshfizzy/) are available with Plex, Jellyfin, or Emby, integrated with cloud storage like RealDebrid, Premiumize, etc, and tooled with heavy-hitters such as Radarr/Sonarr, [CineSync](https://store.elfhosted.com/product/cinesync/) (*hello!*), Riven, [Stremio Addons](https://store.elfhosted.com/product-category/stremio-addons/elf/sureshfizzy/) and [more](https://store.elfhosted.com/product-category/apps/elf/sureshfizzy/).
 
 ElfHosted have an ["excellent" ⭐️⭐️⭐️⭐️⭐️ rating on TrustPilot](https://www.trustpilot.com/review/elfhosted.com), a well-moderated [Discord](https://discord.elfhosted.com) community (*[highly praised](https://docs.elfhosted.com/testimonials/) for support and friendliness*), and [comprehensive documentation and guides](https://docs.elfhosted.com) resource.
 
-Grab a [7-day trial for only $1](https://store.elfhosted.com), and experience ElfHosted for yourself! 🎉
+Grab a [7-day trial for only $1](https://store.elfhosted.com/elf/sureshfizzy/), and experience ElfHosted for yourself! 🎉
 
 ## Documentation
 
